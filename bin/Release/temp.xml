@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Profile>
+  <Record>
+    <Race>Yun</Race>
+    <Gender>Female</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>4</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>4</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>4</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Gon</Race>
+    <Gender>Female</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Lyn</Race>
+    <Gender>Female</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>3</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>3</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Jin</Race>
+    <Gender>Female</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>3</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>0</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>2</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Gon</Race>
+    <Gender>Male</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Lyn</Race>
+    <Gender>Male</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+  <Record>
+    <Race>Jin</Race>
+    <Gender>Male</Gender>
+    <Value id="1">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="2">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="3">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="4">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="5">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="6">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="7">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="8">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="9">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="10">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="11">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="12">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="13">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="14">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="15">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="16">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="17">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="18">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="19">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="20">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="21">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="22">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="23">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="24">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="25">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+    <Value id="26">
+      <Min>-1</Min>
+      <Max>1</Max>
+    </Value>
+  </Record>
+</Profile>

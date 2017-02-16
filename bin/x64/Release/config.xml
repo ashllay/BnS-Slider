@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ProcessName>Client</ProcessName>
+  <WindowTitle>블레이드 &amp; 소울</WindowTitle>
+  <Module>bsengine_Shipping.dll</Module>
+  <BaseAddress>0x01FB12D8</BaseAddress>
+  <ByteArray>000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000080BF000000000000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F0000803F</ByteArray>
+  <MemoryRange>0xFFFF</MemoryRange>
+  <DefaultScan>Full Scan</DefaultScan>
+  <BufferSize>512</BufferSize>
+  <DefaultProfile>D:\bns\slider2\BnS Slider Mod jd\bin\Release\temp.xml</DefaultProfile>
+  <Records>
+    <Record>
+      <Race>Yun</Race>
+      <Gender>Female</Gender>
+      <Offset>0xFB4</Offset>
+    </Record>
+    <Record>
+      <Race>Gon</Race>
+      <Gender>Female</Gender>
+      <Offset>0x10C0</Offset>
+    </Record>
+    <Record>
+      <Race>Lyn</Race>-
+      <Gender>Female</Gender><Offset>0x11CC</Offset></Record>
+    <Record>
+      <Race>Jin</Race>
+      <Gender>Female</Gender>
+      <Offset>0x12D8</Offset>
+    </Record>
+    <Record>
+      <Race>Gon</Race>
+      <Gender>Male</Gender>
+      <Offset>0x96C</Offset>
+    </Record>
+    <Record>
+      <Race>Lyn</Race>
+      <Gender>Male</Gender>
+      <Offset>0xA78</Offset>
+    </Record>
+    <Record>
+      <Race>Jin</Race>
+      <Gender>Male</Gender>
+      <Offset>0xB84</Offset>
+    </Record>
+  </Records>
+  <Values>
+    <Value id="1" description="Pelvis Width" />
+    <Value id="2" description="Pelvis Thickness" />
+    <Value id="3" description="Waist Thickness" />
+    <Value id="4" description="Waist Length" />
+    <Value id="5" description="Thigh Width" />
+    <Value id="6" description="Calf Width" />
+    <Value id="7" description="Thigh Length" />
+    <Value id="8" description="Calf Length" />
+    <Value id="9" description="Torso Size" />
+    <Value id="10" description="Neck Thickness" />
+    <Value id="11" description="Neck Length" />
+    <Value id="12" description="Shoulder Height" />
+    <Value id="13" description="Shoulder Width" />
+    <Value id="14" description="Shoulder Size" />
+    <Value id="15" description="Arm Thickness" />
+    <Value id="16" description="Arm Length" />
+    <Value id="17" description="Hand Size" />
+    <Value id="18" description="Hand Length" />
+    <Value id="19" description="Foot Size" />
+    <Value id="20" description="Build" />
+    <Value id="21" description="Height" />
+    <Value id="22" description="Head Size" />
+    <Value id="23" description="Chest Height" />
+    <Value id="24" description="Chest Width" />
+    <Value id="25" description="Chest Size" />
+    <Value id="26" description="Head Width" />
+  </Values>
+  <Groups>
+    <Group id="0" description="Chest">
+      <Value id="23" description="Chest Height" />
+      <Value id="24" description="Chest Width" />
+      <Value id="25" description="Chest Size" />
+    </Group>
+    <Group id="1" description="Frame">
+      <Value id="20" description="Build" />
+      <Value id="21" description="Height" />
+    </Group>
+    <Group id="2" description="Upper Body">
+      <Value id="22" description="Head Size" />
+      <Value id="26" description="Head Width" />
+      <Value id="9" description="Torso Size" />
+      <Value id="10" description="Neck Thickness" />
+      <Value id="11" description="Neck Length" />
+      <Value id="12" description="Shoulder Height" />
+      <Value id="13" description="Shoulder Width" />
+      <Value id="14" description="Shoulder Size" />
+      <Value id="15" description="Arm Thickness" />
+      <Value id="16" description="Arm Length" />
+      <Value id="17" description="Hand Size" />
+      <Value id="18" description="Hand Length" />
+    </Group>
+    <Group id="3" description="Lower Body">
+      <Value id="1" description="Pelvis Width" />
+      <Value id="2" description="Pelvis Thickness" />
+      <Value id="3" description="Waist Thickness" />
+      <Value id="4" description="Waist Length" />
+      <Value id="7" description="Thigh Length" />
+      <Value id="5" description="Thigh Width" />
+      <Value id="8" description="Calf Length" />
+      <Value id="6" description="Calf Width" />
+      <Value id="19" description="Foot Size" />
+    </Group>
+  </Groups>
+</Config>
